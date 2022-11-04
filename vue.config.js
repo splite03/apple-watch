@@ -1,3 +1,3 @@
 module.exports = {
-  publicPath: '/watch/'
+  publicPath: '/apple-watch/'
 }
