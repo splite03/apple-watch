@@ -639,7 +639,7 @@ img{
   align-items: center;
   position: relative;
   overflow: hidden;
-  background-image: url(http://localhost:8080/img/fitness_plus__fl5ioto4a4eq_large.d78cf290.jpg);
+  background-image: url(@/assets/fitness_plus__fl5ioto4a4eq_large.jpg);
   background-size: 1385px 852px;
   background-repeat: no-repeat;
   min-height: 852px;
